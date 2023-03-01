@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>Милешко Антон Владимирович</Name>
+    <Visual>2</Visual>
+    <Architecture>2</Architecture>
+    <Networks>2</Networks>
+  </Student>
+  <Student>
+    <Name>Агалаков Антон Александрович</Name>
+    <Visual>1</Visual>
+    <Architecture>1</Architecture>
+    <Networks>1</Networks>
+  </Student>
+  <Student>
+    <Name>Новожилов Дмитрий Иванович</Name>
+    <Visual>0</Visual>
+    <Architecture>0</Architecture>
+    <Networks>0</Networks>
+  </Student>
+</ArrayOfStudent>
